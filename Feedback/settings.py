@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Formuser',
     'rest_framework',
+    'FeedbackForm',
 ]
 
 MIDDLEWARE = [
